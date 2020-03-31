@@ -10,6 +10,7 @@ public class LearnObjects {
 	public void displayData(String user, String pass) {
 		
 	System.out.println(user+"......"+pass);
+	System.out.println(".........................");
 		
 		
 	}
